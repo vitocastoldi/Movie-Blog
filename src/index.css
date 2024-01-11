@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Inconsolata', monospace;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Prompt', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: navy;
+}
+
+button{
+  cursor: pointer;
+}
+

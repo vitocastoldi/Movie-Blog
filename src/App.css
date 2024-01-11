@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.btn-mostrar{
+  font-weight:bolder;
+  font-size: x-large;
+  color: #ffffff;
+  background-color: rgb(174, 79, 197);
+}
+
+.btn-cargar{
+  font-weight: bolder;
+  font-size: x-large;
+  color: #ffffff;
+  background-color: orangered;
+}
